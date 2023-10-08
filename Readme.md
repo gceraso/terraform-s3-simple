@@ -44,4 +44,6 @@ module "s3_bucket" {
   bucket = "single_bucket"
 }
 ```
+## See it Go! 
 
+![s3](https://github.com/gceraso/terraform-s3-simple/assets/8634134/087bfc30-b3d6-4a14-b105-32444af190ce)
