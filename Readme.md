@@ -1,6 +1,6 @@
 # Simple S3 Module
 
-Simple S3 module to manage bucket creation with options for logging, encryption, tagging, and versioning. 
+This is a simple S3 module designed to manage bucket creation with options for logging, encryption, tagging, and versioning.
 
 ## What's Included
 
